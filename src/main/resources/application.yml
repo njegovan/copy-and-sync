@@ -1,0 +1,4 @@
+application:
+  data-buffer-max-value: 1024
+  input-file: ./in.txt
+  output-file: ./out.txt
